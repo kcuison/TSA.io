@@ -1,0 +1,28 @@
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url('https://i.pinimg.com/originals/52/0a/43/520a437b6eec6aae1ca6facd05a34b0a.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+}
+
+#header {
+  color: #f3f3f3;
+  font-size: 100px;
+  text-shadow: 4px 4px #EE2624;
+}
+
+#header2 {
+  font-size: 50px;
+  color: #f3f3f3;
+}
+
+#big {
+  box-shadow: 10px 10px #EE2624;
+}
+
+#small {
+  box-shadow: 10px 10px #005DAA;
+}
